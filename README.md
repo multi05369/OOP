@@ -1,2 +1,2 @@
 # OOP
-All code about OOP use OOP to learn
+All code about OOP use Java to learn
