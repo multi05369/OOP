@@ -9,9 +9,10 @@ public class Main {
         p2.setName("Khim");
         p2.setTeam("Gate AND");
         
-        if(p1.isSameTeam(p2))
-            System.out.println(p1.getName() +" is a same team with "+p2.getName());
-        else
-            System.out.println(p1.getName() +" is not a same team with "+p2.getName());
+        if (p1.isSameTeam(p2)) {
+            System.out.println(p1.getName() + " is a same team with " + p2.getName());
+        } else {
+            System.out.println(p1.getName() + " is not a same team with " + p2.getName());
+        }
     }
 }

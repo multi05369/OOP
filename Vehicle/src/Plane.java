@@ -1,4 +1,3 @@
-
 public class Plane extends Vehicle {
     public void showPlaneInfo() {
         System.out.print("Plane detail is, ");
